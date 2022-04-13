@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Yummie
 //
-//  Created by Cora on 11/04/22.
+//  Created by Anderson Oliveira on 11/04/22.
 //
 
 import UIKit
@@ -18,7 +18,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: windowScene)
-        window?.rootViewController = HomeViewController()
+        window?.rootViewController = OnboardingViewController()
         window?.makeKeyAndVisible()
     }
 
