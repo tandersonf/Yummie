@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Yummie
 //
-//  Created by Cora on 11/04/22.
+//  Created by Anderson Oliveira on 11/04/22.
 //
 
 import UIKit
