@@ -2,7 +2,7 @@
 //  OnboardingView.swift
 //  Yummie
 //
-//  Created byAnderson Oliveira on 11/04/22.
+//  Created by Anderson Oliveira on 11/04/22.
 //
 
 import Foundation
